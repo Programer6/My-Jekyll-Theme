@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # "Neon Dreams" Jekyll Theme
@@ -10,3 +11,4 @@ There are some of the stuff that I want to inculde:
 Dark, almost black background
 Bright neon-colored text (so electric blues, purples, maybe some greens)
 Glowing buttons and links
+
